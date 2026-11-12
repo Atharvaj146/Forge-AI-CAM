@@ -1,0 +1,1 @@
+"""MediaPipe pose-landmarker integration."""
